@@ -5,11 +5,11 @@ import publicationsData from './publications.json';
 export const data = {
   en: {
     PROFILE: {
-      name: "Dr. Alex Chen",
-      title: "Postdoctoral Researcher",
-      affiliation: "AI Perception Lab, Stanford University",
-      email: "alex.chen@stanford.edu",
-      location: "Gates Computer Science Building, 353 Serra Mall",
+      name: "Hengtao Wu",
+      title: "Undergraduate Student",
+      affiliation: "Computer Science,Shanghai Jiao Tong University",
+      email: "eternity_w@sjtu.edu.cn",
+      location: "Shanghai, China",
       bio: `
         I am a Postdoctoral Researcher at Stanford University, working with Prof. Jane Doe. 
         Previously, I received my Ph.D. from MIT CSAIL in 2023.
@@ -20,17 +20,16 @@ export const data = {
         3D scene understanding, and multimodal representation learning.
       `,
       researchInterests: [
-        "Computer Vision",
-        "Self-Supervised Learning",
-        "3D Scene Understanding",
-        "Robotics"
+        "Audio",
+        "Text-to-speech",
+        "Natural Language Processing"
       ],
       socials: [
-        { platform: 'email', url: 'mailto:alex.chen@stanford.edu' },
+        { platform: 'email', url: 'mailto:eternity_w@sjtu.edu.cn' },
         { platform: 'scholar', url: 'https://scholar.google.com', username: 'Google Scholar' },
-        { platform: 'github', url: 'https://github.com', username: 'GitHub' },
-        { platform: 'zhihu', url: 'https://zhihu.com', username: 'Zhihu' },
-        { platform: 'xiaohongshu', url: 'https://xiaohongshu.com', username: 'Xiaohongshu' },
+        { platform: 'github', url: 'https://github.com/LazySheep006', username: 'GitHub' },
+        { platform: 'zhihu', url: 'https://www.zhihu.com/people/13-45-83-69-15', username: 'Zhihu' },
+        { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/666affc400000000070070aa', username: 'Xiaohongshu' },
       ],
       lastUpdated: "2026-03-13"
     } as ProfileData,
@@ -71,11 +70,11 @@ export const data = {
   },
   zh: {
     PROFILE: {
-      name: "陈亚历 (Dr. Alex Chen)",
-      title: "博士后研究员",
-      affiliation: "斯坦福大学 AI感知实验室",
-      email: "alex.chen@stanford.edu",
-      location: "Gates Computer Science Building, 353 Serra Mall",
+      name: "吴恒涛",
+      title: "本科生",
+      affiliation: "上海交通大学 计算机科学",
+      email: "eternity_w@sjtu.edu.cn",
+      location: "中国 上海",
       bio: `
         我是斯坦福大学的一名博士后研究员，合作导师是 Jane Doe 教授。
         此前，我于2023年在麻省理工学院（MIT CSAIL）获得博士学位。
@@ -84,17 +83,16 @@ export const data = {
         我特别致力于构建鲁棒的视觉感知系统，使其能够在有限的监督下泛化到未知的环境中。我近期的工作主要集中在自监督学习、3D场景理解以及多模态表征学习。
       `,
       researchInterests: [
-        "计算机视觉",
-        "自监督学习",
-        "3D场景理解",
-        "机器人学"
+        "音频",
+        "TTS",
+        "自然语言处理"
       ],
       socials: [
-        { platform: 'email', url: 'mailto:alex.chen@stanford.edu' },
+        { platform: 'email', url: 'mailto:eternity_w@sjtu.edu.cn' },
         { platform: 'scholar', url: 'https://scholar.google.com', username: 'Google Scholar' },
-        { platform: 'github', url: 'https://github.com', username: 'GitHub' },
-        { platform: 'zhihu', url: 'https://zhihu.com', username: '知乎' },
-        { platform: 'xiaohongshu', url: 'https://xiaohongshu.com', username: '小红书' },
+        { platform: 'github', url: 'https://github.com/LazySheep006', username: 'GitHub' },
+        { platform: 'zhihu', url: 'https://www.zhihu.com/people/13-45-83-69-15', username: '知乎' },
+        { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/666affc400000000070070aa', username: '小红书' },
       ],
       lastUpdated: "2026-03-13"
     } as ProfileData,
