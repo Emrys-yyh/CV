@@ -60,7 +60,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeSection, profile, sectio
             </button>
           ))}
           <a
-            href="/blog"
+            href="https://blog.lazysheep.site"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lg font-medium text-left text-academic-800 hover:text-academic-blue flex items-center gap-2"
