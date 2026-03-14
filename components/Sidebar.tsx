@@ -1,4 +1,4 @@
-›import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { Icon } from './Icon';
 import { Menu, X, Globe } from 'lucide-react';
 import { ProfileData } from '../types';
