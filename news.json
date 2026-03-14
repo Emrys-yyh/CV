@@ -1,8 +1,8 @@
 {
   "en": [
-    { "id": "1", "date": "Mar 2026", "content": "Follow Atol Lab to learn" }
+    { "id": "1", "date": "Mar 2026", "content": "Follow **Atol Lab** to learn" }
   ],
   "zh": [
-    { "id": "1", "date": "2026年3月", "content": "跟随 Atol Lab 进行学习" }
+    { "id": "1", "date": "2026年3月", "content": "跟随 **Atol Lab** 进行学习" }
   ]
 }
