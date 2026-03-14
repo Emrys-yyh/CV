@@ -117,7 +117,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeSection, profile, sectio
         <div className="shrink-0 mt-8 space-y-1">
           {/* External Blog Link */}
           <a
-            href="/blog"
+            href="https://blog.lazysheep.site"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-between w-full text-left py-2 px-3 rounded-md text-sm font-medium text-academic-500 hover:text-academic-800 hover:bg-academic-100 transition-all"
