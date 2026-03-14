@@ -79,8 +79,9 @@ export const data = {
       `,
       researchInterests: [
         "音频",
-        "TTS",
-        "自然语言处理"
+        "文本转语音",
+        "自然语言处理",
+        "语音和音频生成"
       ],
       socials: [
         { platform: 'email', url: 'mailto:eternity_w@sjtu.edu.cn' },
@@ -102,7 +103,7 @@ export const data = {
         type: 'awards', 
         content: [
           { id: 'aw1', title: "三好学生", organization: "上海交通大学", year: "2025" },
-          { id: 'aw2', title: "二等奖学金", organization: "上海交通大学", year: "2025" },
+          { id: 'aw2', title: "B类奖学金", organization: "上海交通大学", year: "2025" },
           // { id: 'aw3', title: "国家奖学金", organization: "教育部", year: "2017" }
         ] 
       },
