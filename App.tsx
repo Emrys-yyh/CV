@@ -125,7 +125,7 @@ function App() {
         />
 
         {/* Main Content (Right) */}
-        <main className="flex-1 w-full md:pl-72 lg:pl-80">
+        <main className="flex-1 w-full md:pl-72 lg:pl-80 pt-16 md:pt-0">
           
           {/* Top Navigation for Desktop */}
           <nav className="hidden md:flex sticky top-0 z-30 bg-white/90 backdrop-blur-md border-b border-academic-100 px-12 py-4 gap-8 overflow-x-auto custom-scrollbar">
