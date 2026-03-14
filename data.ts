@@ -23,13 +23,13 @@ export const data = {
         "Speech Generation and Audio Generation"  
       ],
       socials: [
-        { platform: 'email', url: 'mailto:eternity_w@sjtu.edu.cn' },
+        { platform: 'email', url: 'mailto:yuhangyang@smail.nju.edu.cn' },
         // { platform: 'scholar', url: 'https://scholar.google.com', username: 'Google Scholar' },
-        { platform: 'github', url: 'https://github.com/LazySheep006', username: 'GitHub' },
-        { platform: 'zhihu', url: 'https://www.zhihu.com/people/13-45-83-69-15', username: 'Zhihu' },
-        { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/666affc400000000070070aa', username: 'Xiaohongshu' },
+        { platform: 'github', url: 'https://github.com/Emrys-yyh, username: 'GitHub' },
+        { platform: 'zhihu', url: 'https://www.zhihu.com/people/74-44-50-26-39', username: 'Zhihu' },
+        { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/692941e000000000380194d0', username: 'Xiaohongshu' },
       ],
-      lastUpdated: "2026-03-13"
+      lastUpdated: "2026-03-14"
     } as ProfileData,
 
     SECTIONS: [
@@ -87,10 +87,10 @@ export const data = {
         { platform: 'email', url: 'mailto:yuhangyang@smail.nju.edu.cn' },
         // { platform: 'scholar', url: 'https://scholar.google.com', username: 'Google Scholar' },
         { platform: 'github', url: 'https://github.com/Emrys-yyh', username: 'GitHub' },
-        { platform: 'zhihu', url: 'https://www.zhihu.com/people/13-45-83-69-15', username: '知乎' },
-        { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/666affc400000000070070aa', username: '小红书' },
+        { platform: 'zhihu', url: 'https://www.zhihu.com/people/74-44-50-26-39', username: '知乎' },
+        { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/692941e000000000380194d0', username: '小红书' },
       ],
-      lastUpdated: "2026-03-13"
+      lastUpdated: "2026-03-14"
     } as ProfileData,
 
     SECTIONS: [
