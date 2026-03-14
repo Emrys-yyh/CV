@@ -103,8 +103,8 @@ export const data = {
         title: '荣誉奖项', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "全国大学生数学建模竞赛江苏省三等奖", organization: "中国工业与应用数学学会", year: "2025年9月" }
-          { id: 'aw2', title: "全国大学生数学竞赛江苏省二等奖", organization: "中国数学会", year: "2025年10月" }
+          { id: 'aw1', title: "全国大学生数学建模竞赛江苏省三等奖", organization: "中国工业与应用数学学会", year: "2025年9月" },
+          { id: 'aw2', title: "全国大学生数学竞赛江苏省二等奖", organization: "中国数学会", year: "2025年10月" },
           { id: 'aw3', title: "人民奖学金", organization: "南京大学", year: "2025年12月" },
         ] 
       },
