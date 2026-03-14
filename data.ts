@@ -5,11 +5,11 @@ import publicationsData from './publications.json';
 export const data = {
   en: {
     PROFILE: {
-      name: "Hengtao Wu",
+      name: "Yuhang Yang",
       title: "Undergraduate Student",
-      affiliation: "Computer Science,Shanghai Jiao Tong University",
-      email: "eternity_w@sjtu.edu.cn",
-      location: "Shanghai, China",
+      affiliation: "Mathematics,Nanjing University",
+      email: "yuhangyang@smail.nju.edu.cn",
+      location: "Nanjing, China",
       bio: `
         I am an undergraduate student in Computer Science at **Shanghai Jiao Tong University**, and a member of the **Yongqiang Honors Class**.
         I am currently a member of the [X-LANCE Lab](https://x-lance.sjtu.edu.cn) at SJTU, where I conduct research under the supervision of Professor [Xie Chen](https://chenxie95.github.io).
