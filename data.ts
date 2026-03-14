@@ -66,11 +66,11 @@ export const data = {
   },
   zh: {
     PROFILE: {
-      name: "吴恒涛",
+      name: "阳宇航",
       title: "本科生",
-      affiliation: "上海交通大学 计算机科学",
-      email: "eternity_w@sjtu.edu.cn",
-      location: "中国 上海",
+      affiliation: "南京大学 数学",
+      email: "yuhangyang@smail.nju.edu.cn",
+      location: "中国 南京",
       bio: `
         我是上海交通大学计算机科学与技术专业本科生，永强班成员。
         目前是 [X-LANCE Lab](https://x-lance.sjtu.edu.cn) 成员，在陈谐教授（[Xie Chen](https://chenxie95.github.io)）指导下开展研究。
@@ -84,9 +84,9 @@ export const data = {
         "语音和音频生成"
       ],
       socials: [
-        { platform: 'email', url: 'mailto:eternity_w@sjtu.edu.cn' },
+        { platform: 'email', url: 'mailto:yuhangyang@smail.nju.edu.cn' },
         // { platform: 'scholar', url: 'https://scholar.google.com', username: 'Google Scholar' },
-        { platform: 'github', url: 'https://github.com/LazySheep006', username: 'GitHub' },
+        { platform: 'github', url: 'https://github.com/Emrys-yyh', username: 'GitHub' },
         { platform: 'zhihu', url: 'https://www.zhihu.com/people/13-45-83-69-15', username: '知乎' },
         { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/666affc400000000070070aa', username: '小红书' },
       ],
