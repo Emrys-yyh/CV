@@ -79,7 +79,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeSection, profile, sectio
              <img
                src="/images/profile/profile.jpg"
                alt={profile.name}
-               className="w-full h-full object-cover object-top rounded-[50%]" 
+               className="w-full h-full object-cover object-center" 
              />
           </div>
           
