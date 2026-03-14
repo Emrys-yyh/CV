@@ -41,8 +41,7 @@ export const data = {
         title: 'Awards & Honors', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "Merit Student", organization: "SJTU", year: "2025" },
-          { id: 'aw2', title: "Second-Class Scholarship", organization: "SJTU", year: "2025" },
+          { id: 'aw1', title: "People's Scholarship", organization: "NJU", year: "2025" },
         ] 
       },
       { 
@@ -102,8 +101,7 @@ export const data = {
         title: '荣誉奖项', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "三好学生", organization: "上海交通大学", year: "2025" },
-          { id: 'aw2', title: "B类奖学金", organization: "上海交通大学", year: "2025" },
+          { id: 'aw1', title: "人民奖学金", organization: "南京大学", year: "2025" },
           // { id: 'aw3', title: "国家奖学金", organization: "教育部", year: "2017" }
         ] 
       },
