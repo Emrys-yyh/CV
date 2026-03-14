@@ -11,16 +11,17 @@ export const data = {
       email: "yuhangyang@smail.nju.edu.cn",
       location: "Nanjing, China",
       bio: `
-        I am an undergraduate student in Computer Science at **Shanghai Jiao Tong University**, and a member of the **Yongqiang Honors Class**.
-        I am currently a member of the [X-LANCE Lab](https://x-lance.sjtu.edu.cn) at SJTU, where I conduct research under the supervision of Professor [Xie Chen](https://chenxie95.github.io).
-        My research interests lie in speech and language technologies, with a particular focus on speech generation and voice interaction. I am especially interested in the integration of speech systems with large language models and intelligent agents, and in exploring how speech can serve as a natural interface for intelligent systems.
-        Beyond research, I am also enthusiastic about volunteer service and public-interest activities, and enjoy contributing to initiatives that use technology to create positive social impact.
-      `,
+      Hi, I'm Yuhang Yang, a sophomore Mathematics major at **Nanjing University**. I am driven by a core philosophy: mathematics is the soul of Artificial Intelligence. I firmly believe that the next quantum leap in AI will be sparked by novel mathematical applications.
+      Built upon a rigorous foundation in advanced mathematics—including mathematical analysis, linear algebra, probability, differential equations, and abstract algebra—my passion lies at the intersection of pure math and deep learning. Rather than focusing solely on engineering applications, I am captivated by the fundamental "what" and "why." My current academic curiosity is deeply inspired by generalized mathematical frameworks for associative memory models. I am fascinated by how abstract mathematical operations, such as similarity metrics and separation functions, can fundamentally define a machine's memory capacity and learning behavior. I am dedicated to using rigorous math to establish the underlying logic of AI, with a specific interest in Explainable AI (XAI) and redefining how machines truly understand and learn.
+      I thrive on extracting the essence of complex systems and expressing them with elegant simplicity. I also find immense magic in coding, seamlessly translating rigorous mathematical equations into clean Python algorithms. Equipped with strong proficiencies in Python and LaTeX, alongside a highly developed personal knowledge management system, I approach every task with meticulous attention to detail.
+      I value both collaborative teamwork and deep, independent work. When I'm away from equations and code, you can find me playing basketball, table tennis, or currently challenging myself to learn how to swim.
+      As I actively transition my academic focus towards an AI-oriented graduate path, I am eagerly seeking opportunities to join a dynamic AI research lab where I can learn, grow, and contribute to cutting-edge research.
+       `,
       researchInterests: [
-        "Audio",
-        "Text-to-speech",
-        "Natural Language Processing",
-        "Speech Generation and Audio Generation"  
+        "Mathematical Foundations of Deep Learning",
+        "Explainable AI (XAI)",
+        "Associative Memory Models",
+        "Cognitive & Learning Mechanisms in AI"  
       ],
       socials: [
         { platform: 'email', url: 'mailto:yuhangyang@smail.nju.edu.cn' },
@@ -73,16 +74,17 @@ export const data = {
       email: "yuhangyang@smail.nju.edu.cn",
       location: "中国 南京",
       bio: `
-        我是上海交通大学计算机科学与技术专业本科生，永强班成员。
-        目前是 [X-LANCE Lab](https://x-lance.sjtu.edu.cn) 成员，在陈谐教授（[Xie Chen](https://chenxie95.github.io)）指导下开展研究。
-        我的研究兴趣主要在语音与语言技术方向，关注语音生成与语音交互，以及语音系统与大语言模型和智能体系统的结合。我对探索语音作为智能系统自然交互接口的可能性尤为感兴趣。
-        在科研之外，我也热衷于参与志愿服务与公益活动，希望通过技术与行动为社会创造一些积极影响。  
+        你好，我是阳宇航，**南京大学**数学学院大二学生。我始终坚信一个观点：数学是人工智能的灵魂，而 AI 领域的下一次飞跃，必然源于数学向 AI 赋能的全新应用。
+        基于在数学分析、线性代数、概率论、微分方程以及抽象代数等高级数学领域打下的坚实基础，我正致力于探索纯数学与深度学习的交叉地带。相较于单纯的工程调参，我更痴迷于探究事物的本质——“是什么”与“为什么”。我近期的学术好奇心深受联想记忆模型（Associative Memory Models）等广义数学框架的启发，热衷于探索如何通过抽象的数学操作（如相似性度量与分离函数）来从底层重构和定义机器的记忆容量与学习行为。我希望用严谨的数学逻辑去解释 AI，特别是在可解释性 AI (Explainable AI) 和记忆模型领域。
+        我享受抽丝剥茧的研究过程，也极度热爱编写代码，将复杂的数学方程转化为简洁高效的 Python 逻辑对我而言是一件充满魔力的事情。在日常学习中，我不仅熟练掌握 Python 和 LaTeX，还建立了一套极具逻辑性的个人知识管理系统，这让我在推进任何项目时依然能保持一丝不苟、精益求精的研究状态。
+        在学术之外，我是一个注重团队协作也享受独立思考的人。脱离屏幕和草稿纸时，我通常活跃在篮球场和乒乓球桌旁，或者正在努力解锁我的游泳新技能。
+        目前，我正全面系统地进行 AI 领域的入门与进阶学习，并计划在研究生阶段彻底转向 AI 研究方向。我非常渴望能加入一个充满活力的 AI 课题组，跟随优秀的前辈学习，参与到激动人心的前沿科研中去。
       `,
       researchInterests: [
-        "音频",
-        "文本转语音",
-        "自然语言处理",
-        "语音和音频生成"
+        "深度学习的数学基础",
+        "可解释性人工智能 (XAI)",
+        "联想记忆模型",
+        "AI 认知与学习机制"
       ],
       socials: [
         { platform: 'email', url: 'mailto:yuhangyang@smail.nju.edu.cn' },
